@@ -15,6 +15,5 @@ namespace Server.Logic
         void ClientConnect(UserToken token);
 
         void MessageReceive(UserToken token, SocketModel message);
-       
     }
 }
