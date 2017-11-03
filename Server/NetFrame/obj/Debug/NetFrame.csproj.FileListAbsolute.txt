@@ -1,0 +1,6 @@
+E:\XGC\XGCServer\Server\Server\NetFrame\bin\Debug\NetFrame.dll
+E:\XGC\XGCServer\Server\Server\NetFrame\bin\Debug\NetFrame.pdb
+E:\XGC\XGCServer\Server\Server\NetFrame\obj\Debug\NetFrame.csproj.CoreCompileInputs.cache
+E:\XGC\XGCServer\Server\Server\NetFrame\obj\Debug\NetFrame.dll
+E:\XGC\XGCServer\Server\Server\NetFrame\obj\Debug\NetFrame.pdb
+E:\XGC\XGCServer\Server\Server\NetFrame\obj\Debug\NetFrame.csprojResolveAssemblyReference.cache
