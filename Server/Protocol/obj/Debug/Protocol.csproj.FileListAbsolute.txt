@@ -1,5 +1,0 @@
-E:\XGC\XGCServer\Server\Server\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
-E:\XGC\XGCServer\Server\Server\Protocol\bin\Debug\GameProtocol.dll
-E:\XGC\XGCServer\Server\Server\Protocol\bin\Debug\GameProtocol.pdb
-E:\XGC\XGCServer\Server\Server\Protocol\obj\Debug\GameProtocol.dll
-E:\XGC\XGCServer\Server\Server\Protocol\obj\Debug\GameProtocol.pdb
