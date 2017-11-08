@@ -4,3 +4,9 @@ E:\XGC\XGCServer\Server\Server\NetFrame\obj\Debug\NetFrame.csproj.CoreCompileInp
 E:\XGC\XGCServer\Server\Server\NetFrame\obj\Debug\NetFrame.dll
 E:\XGC\XGCServer\Server\Server\NetFrame\obj\Debug\NetFrame.pdb
 E:\XGC\XGCServer\Server\Server\NetFrame\obj\Debug\NetFrame.csprojResolveAssemblyReference.cache
+F:\Repository\Server\Server\NetFrame\bin\Debug\NetFrame.dll
+F:\Repository\Server\Server\NetFrame\bin\Debug\NetFrame.pdb
+F:\Repository\Server\Server\NetFrame\obj\Debug\NetFrame.csprojResolveAssemblyReference.cache
+F:\Repository\Server\Server\NetFrame\obj\Debug\NetFrame.csproj.CoreCompileInputs.cache
+F:\Repository\Server\Server\NetFrame\obj\Debug\NetFrame.dll
+F:\Repository\Server\Server\NetFrame\obj\Debug\NetFrame.pdb

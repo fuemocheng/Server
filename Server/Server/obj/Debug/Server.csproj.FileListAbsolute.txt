@@ -16,3 +16,14 @@ E:\XGC\XGCServer\Server\Server\Server\obj\Debug\Server.exe
 E:\XGC\XGCServer\Server\Server\Server\obj\Debug\Server.pdb
 E:\XGC\XGCServer\Server\Server\Server\bin\Debug\GameProtocol.dll
 E:\XGC\XGCServer\Server\Server\Server\bin\Debug\GameProtocol.pdb
+F:\Repository\Server\Server\Server\bin\Debug\Server.exe.config
+F:\Repository\Server\Server\Server\bin\Debug\Server.exe
+F:\Repository\Server\Server\Server\bin\Debug\Server.pdb
+F:\Repository\Server\Server\Server\bin\Debug\GameProtocol.dll
+F:\Repository\Server\Server\Server\bin\Debug\NetFrame.dll
+F:\Repository\Server\Server\Server\bin\Debug\NetFrame.pdb
+F:\Repository\Server\Server\Server\bin\Debug\GameProtocol.pdb
+F:\Repository\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\Repository\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\Repository\Server\Server\Server\obj\Debug\Server.exe
+F:\Repository\Server\Server\Server\obj\Debug\Server.pdb
