@@ -1,0 +1,10 @@
+
+*.cache
+
+Server/Server/bin/
+Server/Server/obj/
+Server/NetFrame/bin/
+Server/NetFrame/obj/
+Server/Protocol/bin/
+Server/Protocol/obj/
+
