@@ -91,6 +91,8 @@ namespace NetFrame
                     m_bIsReading = false;
                     return;
                 }
+                buff = cache.ToArray();
+                cache.Clear();
             }
             //反序列化方法是否存在 此方法必须存在
             if (null == messageDecode) { throw new Exception("Message decode process is null"); }
