@@ -8,3 +8,5 @@ Server/NetFrame/obj/
 Server/Protocol/bin/
 Server/Protocol/obj/
 
+Server/.vs/Server/v15/.suo
+Server/.vs/Server/v15/sqlite3/storage.ide
